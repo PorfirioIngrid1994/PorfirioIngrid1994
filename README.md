@@ -1,12 +1,14 @@
 ### Hey, seja muito bem-vindo(a) 😎🚀
 
-### Aqui você vai encontrar projetos dê: 
+### No momento, estou me dedicando aos estudos de:
 
 - 🐍 Python
 - 💾 Banco de Dados (MySQL e SQL)
 - 📊 Power BI 
 - 🤖 Automação (PyAutoGui, Selenium, UiPath, entre outros...)
-- 🌐 Estudando Django
+- 🌐 Django
+- 🤓 JavaScript
+- 📦 AWS
 - 🧬 Eu amo biologia e pretendo vincular meus conhecimentos na área biológica com os de programação
 
 <div style="display: inline_block"><br>
