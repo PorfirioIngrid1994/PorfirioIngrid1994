@@ -3,11 +3,11 @@
 ### No momento, me aventuro nos estudos de:
 
 - 🐍 Python
-- 💾 Banco de Dados (MySQL e SQL)
+- 💾 Banco de Dados (MySQL, SQL, PostgreSQL)
 - 📊 Power BI 
 - 🤖 Automação (PyAutoGui, Selenium, UiPath, entre outros...)
 - 🌐 Django
-- 🤓 JavaScript
+- 🤓 JavaScript(node-red)
 - 📦 AWS
 - 🧬 Eu amo biologia e pretendo vincular meus conhecimentos na área biológica com os de programação
 
