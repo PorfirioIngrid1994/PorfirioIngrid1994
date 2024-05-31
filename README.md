@@ -21,12 +21,23 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" / height="30" width="40">     
 </div>
 
-### Agora, senta que lá vem a história 🧾: 
+### 🎓 De Bióloga a Analista de Dados Tech-Savvy: Minha Jornada...
 
-Ano de 2023, tenho 29 anos e sou estudante de Biologia e agora de Programação. 
-Em janeiro deste ano, com a pandemia e muito incentivo do meu namorado, decidi mergulhar nos estudos de programação. Desde então, descobri o potencial dessa área e enxergo uma oportunidade para realizar grandes conquistas em ambas as áreas.
+🌱 Uma paixão eterna por biologia... Durante quase 4 anos, me dediquei à Phorte Educacional, onde comecei como Auxiliar de Vendas e saí como Assistente Operacional I. Cresci muito como profissional, realizando diversas funções administrativas e superando desafios. Serei sempre muito grata por essa experiência, pois ali fui moldada como profissional.
 
-Meu interesse é especialmente voltado para a área de dados. Porém, preciso confessar que a automação me fascina. Dedico-me intensamente a aprimorar meus conhecimentos nessas áreas e estou sempre disposta a aprender mais. Reconheço que tenho uma jornada desafiadora pela frente, e é aí que você entra, leitor. Convido você a fazer parte dessa trajetória e contribuir com sua experiência e conhecimento, compartilhando o que considerar útil e necessário.
+🔄 Virada de jogo com um empurrãozinho do amor... Estava eu, imersa no mundo da biologia (minha grande paixão), quando a pandemia chegou e trouxe muitas incertezas. Foi então que, com muito incentivo e ajuda do meu esposo, decidi mudar de área. E que mudança! Encontrei uma nova paixão: Tecnologia.
+
+🐍 Encantada pelo Python... Mergulhei fundo e participei de um curso intensivo de 240 horas, onde aprendi um pouco de Selenium, WebScraping, SQLite e outras tecnologias. Explorei bibliotecas incríveis como Seaborn para análise de dados. Descobrindo a automação, encontrei ferramentas muito interessantes como o UiPath, e durante o estágio pude aprender a utilizar o Power Automate e realizar webscraping com ele.
+
+💡 Explorando Dados... Durante meu estágio na Comau, aprendi a utilizar o PostgreSQL, criei dashboards com Node-Red e aprendi os conceitos de ETL. Foi lá que percebi como adoro trabalhar com dados, sempre organizando projetos e entregas com Scrum, usando o Notion para organização.
+
+📊 Visualização de Dados: Estudei Power BI, Tableau e Looker para conhecer as ferramentas de visualização de dados que tornam a análise mais interessante.
+
+🐍 Recentemente, comecei a estudar uma biblioteca fascinante do Python, o Flet, que é multiplataforma e tem um design bem moderno. Aprendendo, também, o Figma para criar projetos mais profissionais.
+
+🚀 Sempre em busca de novos desafios... Continuo estudando e me aprimorando, agradecendo a todos que cruzaram meu caminho e me ajudaram a me tornar uma profissional dedicada e resiliente. Busco sempre me atualizar e aprender mais, para encontrar as melhores soluções para os problemas. Gosto muito de lidar com desafios e encontrar soluções para eles, e para isso, preciso conhecer as ferramentas disponíveis que possam ajudar.
+
+📧 Entre em contato: iporfirio.bio@gmail.com
 
 Vem fazer parte disso!
 
