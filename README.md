@@ -13,7 +13,7 @@
 
 <div style="display: inline_block"><br>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /height="30" width="40">
-   <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /height="30" width="40">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /height="30" width="40">         
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /height="30" width="40">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /height="30" width="40">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" / height="30" width="40">
