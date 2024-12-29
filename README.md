@@ -7,8 +7,7 @@
 - 📊 Power BI 
 - 🤖 Automação (PyAutoGui, Selenium, UiPath, entre outros...)
 - 🌐 Django
-- 🤓 JavaScript(node-red)
-- 📦 AWS
+- 🤓 JavaScript
 - 🧬 Eu amo biologia e pretendo vincular meus conhecimentos na área biológica com os de programação
 
 <div style="display: inline_block"><br>
