@@ -25,25 +25,25 @@
           
 </div>
 
-### De Bióloga a Analista de Dados Tech-Savvy: Minha Jornada
+### De Bióloga a Analista Tech: Minha Jornada 
 
-Uma Paixão pela Biologia...
+###Uma Paixão pela Biologia...
 
 Desde muito jovem, sempre fui fascinada pela complexidade e pela beleza da biologia. Durante minha graduação, mergulhei de cabeça nos estudos e me destaquei como uma estudante dedicada e apaixonada. Foram anos de aprendizado intenso e descobertas incríveis nesse campo que tanto amo.
 
-Crescimento Profissional na Phorte Educacional
+###Crescimento Profissional na Phorte Educacional
 
 Minha trajetória profissional começou na Phorte Educacional, onde iniciei como Auxiliar de Vendas e, com muito esforço e aprendizado, alcancei o cargo de Assistente Operacional I. Durante quase quatro anos, desenvolvi habilidades administrativas, aprendi a superar desafios e participei de diversas iniciativas que moldaram meu profissionalismo. Foi uma experiência que me trouxe maturidade e ferramentas essenciais para a vida.
 
-A Grande Virada: Da Biologia para a Tecnologia
+###A Grande Virada: Da Biologia para a Tecnologia
 
 Com a chegada da pandemia e o incentivo do meu esposo, decidi me aventurar em um novo universo: a tecnologia. Foi um salto ousado, mas transformador. Logo me encantei pelo mundo da programação e dos dados, encontrando um campo que alia criatividade, lógica e inovação.
 
-Explorando Ferramentas e Desenvolvendo Habilidades
+###Explorando Ferramentas e Desenvolvendo Habilidades
 
 Ao longo dessa jornada, acumulei experiências práticas em diversas tecnologias e ferramentas:
 
-Python: Aprendi a utilizar bibliotecas como Seaborn para análise de dados, além de trabalhar com Selenium e WebScraping. Também explorei a automação com ferramentas como UiPath e Power Automate.
+###Python:### Aprendi a utilizar bibliotecas como Seaborn para análise de dados, além de trabalhar com Selenium e WebScraping. Também explorei a automação com ferramentas como UiPath e Power Automate.
 
 Banco de Dados: Com uma base sólida no uso de PostgreSQL, desenvolvi habilidades em criar, gerenciar e otimizar bancos de dados. Realizei operações como SELECT, UPDATE, JOIN e DELETE, sempre buscando eficiência e organização.
 
