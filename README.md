@@ -25,24 +25,45 @@
           
 </div>
 
-### 🎓 De Bióloga a Analista de Dados Tech-Savvy: Minha Jornada...
+### De Bióloga a Analista de Dados Tech-Savvy: Minha Jornada
 
-🌱 Uma paixão eterna por biologia... Durante quase 4 anos, me dediquei à Phorte Educacional, onde comecei como Auxiliar de Vendas e saí como Assistente Operacional I. Cresci muito como profissional, realizando diversas funções administrativas e superando desafios. Serei sempre muito grata por essa experiência, pois ali fui moldada como profissional.
+Uma Paixão pela Biologia...
 
-🔄 Virada de jogo com um empurrãozinho do amor... Estava eu, imersa no mundo da biologia (minha grande paixão), quando a pandemia chegou e trouxe muitas incertezas. Foi então que, com muito incentivo e ajuda do meu esposo, decidi mudar de área. E que mudança! Encontrei uma nova paixão: Tecnologia.
+Desde muito jovem, sempre fui fascinada pela complexidade e pela beleza da biologia. Durante minha graduação, mergulhei de cabeça nos estudos e me destaquei como uma estudante dedicada e apaixonada. Foram anos de aprendizado intenso e descobertas incríveis nesse campo que tanto amo.
 
-🐍 Encantada pelo Python... Mergulhei fundo e participei de um curso intensivo de 240 horas, onde aprendi um pouco de Selenium, WebScraping, SQLite e outras tecnologias. Explorei bibliotecas incríveis como Seaborn para análise de dados. Descobrindo a automação, encontrei ferramentas muito interessantes como o UiPath, e durante o estágio pude aprender a utilizar o Power Automate e realizar webscraping com ele.
+Crescimento Profissional na Phorte Educacional
 
-💡 Explorando Dados... Durante meu estágio na Comau, aprendi a utilizar o PostgreSQL, criei dashboards com Node-Red e aprendi os conceitos de ETL. Foi lá que percebi como adoro trabalhar com dados, sempre organizando projetos e entregas com Scrum, usando o Notion para organização.
+Minha trajetória profissional começou na Phorte Educacional, onde iniciei como Auxiliar de Vendas e, com muito esforço e aprendizado, alcancei o cargo de Assistente Operacional I. Durante quase quatro anos, desenvolvi habilidades administrativas, aprendi a superar desafios e participei de diversas iniciativas que moldaram meu profissionalismo. Foi uma experiência que me trouxe maturidade e ferramentas essenciais para a vida.
 
-📊 Visualização de Dados: Estudei Power BI, Tableau e Looker para conhecer as ferramentas de visualização de dados que tornam a análise mais interessante.
+A Grande Virada: Da Biologia para a Tecnologia
 
-🐍 Recentemente, comecei a estudar uma biblioteca fascinante do Python, o Flet, que é multiplataforma e tem um design bem moderno. Aprendendo, também, o Figma para criar projetos mais profissionais.
+Com a chegada da pandemia e o incentivo do meu esposo, decidi me aventurar em um novo universo: a tecnologia. Foi um salto ousado, mas transformador. Logo me encantei pelo mundo da programação e dos dados, encontrando um campo que alia criatividade, lógica e inovação.
 
-🚀 Sempre em busca de novos desafios... Continuo estudando e me aprimorando, agradecendo a todos que cruzaram meu caminho e me ajudaram a me tornar uma profissional dedicada e resiliente. Busco sempre me atualizar e aprender mais, para encontrar as melhores soluções para os problemas. Gosto muito de lidar com desafios e encontrar soluções para eles, e para isso, preciso conhecer as ferramentas disponíveis que possam ajudar.
+Explorando Ferramentas e Desenvolvendo Habilidades
 
-📧 Entre em contato: iporfirio.bio@gmail.com
+Ao longo dessa jornada, acumulei experiências práticas em diversas tecnologias e ferramentas:
 
-Vem fazer parte disso!
+Python: Aprendi a utilizar bibliotecas como Seaborn para análise de dados, além de trabalhar com Selenium e WebScraping. Também explorei a automação com ferramentas como UiPath e Power Automate.
+
+Banco de Dados: Com uma base sólida no uso de PostgreSQL, desenvolvi habilidades em criar, gerenciar e otimizar bancos de dados. Realizei operações como SELECT, UPDATE, JOIN e DELETE, sempre buscando eficiência e organização.
+
+Node-Red: Trabalhei na criação de dashboards e fluxos para visualização de dados e automação de processos.
+
+KNIME: Dominei essa poderosa ferramenta de data analytics, utilizando-a para processos de ETL, integração com APIs, raspagem e automação de fluxos complexos de dados. Utilizei também conhecimentos em HTML e CSS para criar e estilizar DataApps, deixando-os funcionais e visualmente atrativos.
+
+HTML, CSS e JavaScript: Estudei essas tecnologias fundamentais para o desenvolvimento web e as apliquei na criação e personalização de DataApps no KNIME. Atualmente, estou aprendendo ReactJS para expandir ainda mais minhas habilidades em desenvolvimento web.
+
+Visualização e Design
+
+Para transformar dados em insights valiosos, me aprofundei em ferramentas de visualização como Power BI, Tableau e Looker. Recentemente, comecei a estudar o Flet, uma biblioteca Python multiplataforma, e o Figma, para criar projetos com design mais profissional.
+
+Uma Profissional Dedicada e Resiliente
+
+Sempre em busca de aprender mais, encaro cada desafio como uma oportunidade de crescimento. Meu objetivo é continuar desenvolvendo soluções criativas e eficazes, explorando novas tecnologias e contribuindo para projetos inovadores.
 
 Prazer, Ingrid! 🤩
+📧 Entre em contato: iporfirio.bio@gmail.com
+
+Venha fazer parte dessa jornada comigo! 🚀
+
+
