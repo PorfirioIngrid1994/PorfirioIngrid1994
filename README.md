@@ -7,7 +7,7 @@
 - 📊 **Power BI**  
 - 🤖 **Automação** (PyAutoGui, Selenium, UiPath, entre outros...)  
 - 🤓 **JavaScript**  
-- 🧬 **Eu amo biologia e pretendo vincular meus conhecimentos na área biológica com os de programação**  
+
 
 <div style="display: inline_block"><br>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40">
