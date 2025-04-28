@@ -9,12 +9,6 @@ Com um empurrãozinho (e muito incentivo) do meu esposo 💞, descobri a área T
 
 ## 🚀 Atualmente, atuo e estudo nas áreas de:
 
-### 📌 Organização e Gestão de Projetos
-- Planejamento e acompanhamento de tarefas com **Azure DevOps Boards** e **Jira**
-- Criação de **Kanban**, **Sprints**, **Epics**, **Issues** e **Tasks**
-- Organização visual de projetos com **Miro**, **Notion** e **Figma**
-- Desenvolvimento de projetos com copilotos inteligentes, APIs e automações
-
 ### 💻 Desenvolvimento e Automação
 - **Python**: automações, scraping, APIs e projetos com **FastAPI**
 - RPA com **UiPath**, **Power Automate** e **Node-RED**
@@ -29,6 +23,12 @@ Com um empurrãozinho (e muito incentivo) do meu esposo 💞, descobri a área T
 - Encantada por **Python** e suas bibliotecas, especialmente **Flet**
 - Experiência com **JavaScript**
 - Atualmente estudando **ReactJS**
+
+### 📌 Organização e Gestão de Projetos
+- Planejamento e acompanhamento de tarefas com **Azure DevOps Boards** e **Jira**
+- Criação de **Kanban**, **Sprints**, **Epics**, **Issues** e **Tasks**
+- Organização visual de projetos com **Miro**, **Notion** e **Figma**
+- Desenvolvimento de projetos com copilotos inteligentes, APIs e automações
 
 ---
 
